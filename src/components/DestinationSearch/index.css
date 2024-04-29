@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.img-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.main-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search {
+  background-color: #f1f5f9;
+  border-radius: 18px;
+  border-radius: 0px;
+  border-style: none;
+}
